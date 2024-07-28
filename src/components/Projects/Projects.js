@@ -23,7 +23,7 @@ function Projects() {
             <ProjectCard
               imgPath={movie_set}
               isBlog={false}
-              title="Movie Master"
+              title="Movie Universe"
               description="In progress, TBD to be the biggest app I have created."
               ghLink="https://github.com/nickmonroe123"
             />
