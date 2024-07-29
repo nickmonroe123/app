@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal_portfolio/static/css/main.0ebf2e74.css",
-    "main.js": "/personal_portfolio/static/js/main.53ef6e4d.js",
-    "static/js/415.4d6acbeb.chunk.js": "/personal_portfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/personal_portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/NickMonroeResume.pdf": "/personal_portfolio/static/media/NickMonroeResume.ab47c9dc0eb1bb1ba846.pdf",
-    "static/media/home-main.svg": "/personal_portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/personal_portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/home-bg.jpg": "/personal_portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/pre.svg": "/personal_portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/personal_portfolio/index.html",
-    "main.0ebf2e74.css.map": "/personal_portfolio/static/css/main.0ebf2e74.css.map",
-    "main.53ef6e4d.js.map": "/personal_portfolio/static/js/main.53ef6e4d.js.map",
-    "415.4d6acbeb.chunk.js.map": "/personal_portfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/personal_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/app/static/css/main.e7ed6eb0.css",
+    "main.js": "/app/static/js/main.3d434e3d.js",
+    "static/js/415.4d6acbeb.chunk.js": "/app/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/app/static/js/787.1ed0c42c.chunk.js",
+    "static/media/NickMonroeResume.pdf": "/app/static/media/NickMonroeResume.ab47c9dc0eb1bb1ba846.pdf",
+    "static/media/home-main.svg": "/app/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/app/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/app/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/app/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/app/index.html",
+    "main.e7ed6eb0.css.map": "/app/static/css/main.e7ed6eb0.css.map",
+    "main.3d434e3d.js.map": "/app/static/js/main.3d434e3d.js.map",
+    "415.4d6acbeb.chunk.js.map": "/app/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/app/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ebf2e74.css",
-    "static/js/main.53ef6e4d.js"
+    "static/css/main.e7ed6eb0.css",
+    "static/js/main.3d434e3d.js"
   ]
 }
